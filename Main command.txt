@@ -1,4 +1,4 @@
-git status               проверка изменений
-git add .                добавить на локал репозиторий всех изменений
-git commit -m "text"     создание коммита
-git push                 отправка на GitHub
+git status               check changes
+git add .                to add to the local repository all the changes
+git commit -m "text"     create a commit
+git push                 sending on GitHub
