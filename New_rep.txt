@@ -1,0 +1,6 @@
+Add repository:
+remote add [сокращение] [url]
+git remote add pb git://github.com/paulboone/ticgit.git
+
+Look repository:
+git remote -v
