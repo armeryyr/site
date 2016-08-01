@@ -1,6 +1,20 @@
 Add repository:
 remote add [сокращение] [url]
-git remote add pb git://github.com/paulboone/ticgit.git
+$ git remote add pb git://github.com/paulboone/ticgit.git
 
 Look repository:
 git remote -v
+
+Rename repository:
+git remote rename
+$ git remote rename pb paul
+$ git remote
+origin
+paul
+
+Del
+git remote rm
+$ git remote rm paul
+$ git remote
+origin
+
