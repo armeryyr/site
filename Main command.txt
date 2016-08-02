@@ -2,3 +2,6 @@ git status               check changes
 git add .                to add to the local repository all the changes
 git commit -m "text"     create a commit
 git push                 sending on GitHub
+git log			 показ изменений
+git checkout e5h678d	 откат к прежней версии
+git checkout master	 возврат поздних изменений
